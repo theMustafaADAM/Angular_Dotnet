@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.IdentityModel.Tokens" Version="6.32.0" />
+    <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="6.32.0" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\DataServic\DataService.csproj" />
+    <ProjectReference Include="..\LogginService\LogginService.csproj" />
+    <ProjectReference Include="..\ModelService\ModelService.csproj" />
+    <ProjectReference Include="..\CookieService\CookieService.csproj" />
+    <ProjectReference Include="..\ActivityService\ActivityService.csproj" />
+  </ItemGroup>
+</Project>

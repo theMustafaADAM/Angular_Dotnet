@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{BBEBB680-C07B-4AE6-B0E1-E0F70DBEA386}|Default">
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Option id="ShowAllFiles" value="True" />
+          <Node name="Angular_with_Dotnet" expanded="True">
+            <Node name=".git" selected="True" />
+            <Node name="Angular_with_Dotnet" expanded="True">
+              <Node name="ClientApp" expanded="True">
+                <Node name=".angular" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="ModelService" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Angular__with__Dotnet PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

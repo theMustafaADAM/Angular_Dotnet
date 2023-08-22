@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ModelService\ModelService.csproj" />
+    <ProjectReference Include="..\LogginService\LogginService.csproj" />
+    <ProjectReference Include="..\ActivityService\ActivityService.csproj" />
+    <ProjectReference Include="..\CookieService\CookieService.csproj" />
+    <ProjectReference Include="..\DataServic\DataService.csproj" />
+  </ItemGroup>
+</Project>

@@ -1,0 +1,42 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>CMS Application</title>
+
+    <meta name="description" content="CMS Application build With Angular 16 And ASP.NET Core 6.0" />
+    <meta name="author" content=" Mustafa Bin ADAM By: TechHowdy " />
+
+    <!-- Favicon Icon -->
+    <link href="~/favicon.ico" rel="icon" />
+
+    @await Html.PartialAsync("_ApplicationHeaderStylePartial")
+
+    @RenderSection("Styles", required: false)
+</head>
+<body>
+
+    <!-- ==================================================================================== -->
+    <!--  Main Wrapper -->
+    <!-- ==================================================================================== -->
+    <div class="wrapper">
+
+        @await Html.PartialAsync("_SidebarLayout")
+
+        <div id="content">
+
+            @await Html.PartialAsync("_TopbarLayout")
+            @await Html.PartialAsync("_StatsLayout")
+            @RenderBody()
+
+        </div>
+
+    </div>
+    @await Html.PartialAsync("_FooterLayout")
+    @await Html.PartialAsync("_UIScriptsPartial")
+
+    @RenderSection("Scripts", required: false)
+</body>
+</html>

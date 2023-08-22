@@ -1,0 +1,12 @@
+/Users/developer/Projects/Angular_with_Dotnet/AttributeService/bin/Debug/net6.0/AttributeService.deps.json
+/Users/developer/Projects/Angular_with_Dotnet/AttributeService/bin/Debug/net6.0/AttributeService.dll
+/Users/developer/Projects/Angular_with_Dotnet/AttributeService/bin/Debug/net6.0/AttributeService.pdb
+/Users/developer/Projects/Angular_with_Dotnet/AttributeService/obj/Debug/net6.0/AttributeService.csproj.AssemblyReference.cache
+/Users/developer/Projects/Angular_with_Dotnet/AttributeService/obj/Debug/net6.0/AttributeService.GeneratedMSBuildEditorConfig.editorconfig
+/Users/developer/Projects/Angular_with_Dotnet/AttributeService/obj/Debug/net6.0/AttributeService.AssemblyInfoInputs.cache
+/Users/developer/Projects/Angular_with_Dotnet/AttributeService/obj/Debug/net6.0/AttributeService.AssemblyInfo.cs
+/Users/developer/Projects/Angular_with_Dotnet/AttributeService/obj/Debug/net6.0/AttributeService.csproj.CoreCompileInputs.cache
+/Users/developer/Projects/Angular_with_Dotnet/AttributeService/obj/Debug/net6.0/AttributeService.dll
+/Users/developer/Projects/Angular_with_Dotnet/AttributeService/obj/Debug/net6.0/refint/AttributeService.dll
+/Users/developer/Projects/Angular_with_Dotnet/AttributeService/obj/Debug/net6.0/AttributeService.pdb
+/Users/developer/Projects/Angular_with_Dotnet/AttributeService/obj/Debug/net6.0/ref/AttributeService.dll

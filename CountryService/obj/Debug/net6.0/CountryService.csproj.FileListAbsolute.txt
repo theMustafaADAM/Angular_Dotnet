@@ -1,0 +1,17 @@
+/Users/developer/Projects/Angular_with_Dotnet/CountryService/bin/Debug/net6.0/CountryService.deps.json
+/Users/developer/Projects/Angular_with_Dotnet/CountryService/bin/Debug/net6.0/CountryService.dll
+/Users/developer/Projects/Angular_with_Dotnet/CountryService/bin/Debug/net6.0/CountryService.pdb
+/Users/developer/Projects/Angular_with_Dotnet/CountryService/bin/Debug/net6.0/LogginService.dll
+/Users/developer/Projects/Angular_with_Dotnet/CountryService/bin/Debug/net6.0/ModelService.dll
+/Users/developer/Projects/Angular_with_Dotnet/CountryService/bin/Debug/net6.0/ModelService.pdb
+/Users/developer/Projects/Angular_with_Dotnet/CountryService/bin/Debug/net6.0/LogginService.pdb
+/Users/developer/Projects/Angular_with_Dotnet/CountryService/obj/Debug/net6.0/CountryService.csproj.AssemblyReference.cache
+/Users/developer/Projects/Angular_with_Dotnet/CountryService/obj/Debug/net6.0/CountryService.GeneratedMSBuildEditorConfig.editorconfig
+/Users/developer/Projects/Angular_with_Dotnet/CountryService/obj/Debug/net6.0/CountryService.AssemblyInfoInputs.cache
+/Users/developer/Projects/Angular_with_Dotnet/CountryService/obj/Debug/net6.0/CountryService.AssemblyInfo.cs
+/Users/developer/Projects/Angular_with_Dotnet/CountryService/obj/Debug/net6.0/CountryService.csproj.CoreCompileInputs.cache
+/Users/developer/Projects/Angular_with_Dotnet/CountryService/obj/Debug/net6.0/CountryService.csproj.CopyComplete
+/Users/developer/Projects/Angular_with_Dotnet/CountryService/obj/Debug/net6.0/CountryService.dll
+/Users/developer/Projects/Angular_with_Dotnet/CountryService/obj/Debug/net6.0/refint/CountryService.dll
+/Users/developer/Projects/Angular_with_Dotnet/CountryService/obj/Debug/net6.0/CountryService.pdb
+/Users/developer/Projects/Angular_with_Dotnet/CountryService/obj/Debug/net6.0/ref/CountryService.dll

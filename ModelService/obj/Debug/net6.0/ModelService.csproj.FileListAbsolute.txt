@@ -1,0 +1,12 @@
+/Users/developer/Projects/Angular_with_Dotnet/ModelService/bin/Debug/net6.0/ModelService.deps.json
+/Users/developer/Projects/Angular_with_Dotnet/ModelService/bin/Debug/net6.0/ModelService.dll
+/Users/developer/Projects/Angular_with_Dotnet/ModelService/bin/Debug/net6.0/ModelService.pdb
+/Users/developer/Projects/Angular_with_Dotnet/ModelService/obj/Debug/net6.0/ModelService.csproj.AssemblyReference.cache
+/Users/developer/Projects/Angular_with_Dotnet/ModelService/obj/Debug/net6.0/ModelService.GeneratedMSBuildEditorConfig.editorconfig
+/Users/developer/Projects/Angular_with_Dotnet/ModelService/obj/Debug/net6.0/ModelService.AssemblyInfoInputs.cache
+/Users/developer/Projects/Angular_with_Dotnet/ModelService/obj/Debug/net6.0/ModelService.AssemblyInfo.cs
+/Users/developer/Projects/Angular_with_Dotnet/ModelService/obj/Debug/net6.0/ModelService.csproj.CoreCompileInputs.cache
+/Users/developer/Projects/Angular_with_Dotnet/ModelService/obj/Debug/net6.0/ModelService.dll
+/Users/developer/Projects/Angular_with_Dotnet/ModelService/obj/Debug/net6.0/refint/ModelService.dll
+/Users/developer/Projects/Angular_with_Dotnet/ModelService/obj/Debug/net6.0/ModelService.pdb
+/Users/developer/Projects/Angular_with_Dotnet/ModelService/obj/Debug/net6.0/ref/ModelService.dll
